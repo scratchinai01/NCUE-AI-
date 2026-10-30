@@ -1,0 +1,6 @@
+{
+  "name": "NCUE 未來教師 AI 力：Skills 設計與教學創新",
+  "description": "專為彰化師範大學師培生與教授設計之 AI 數位教學實戰工具箱，涵蓋 108 課綱教案、素養評量、差異化教學與實習試教等 30 個精選技能與即時生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
